@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ca8cd6f.css",
+    "main.js": "/static/js/main.eef622e3.js",
+    "static/media/Profile.jpg": "/static/media/Profile.9b73b28580f9705e5a78.jpg",
+    "static/media/NaveenBelandur.pdf": "/static/media/NaveenBelandur.5e44ad353f07600653ed.pdf",
+    "index.html": "/index.html",
+    "main.1ca8cd6f.css.map": "/static/css/main.1ca8cd6f.css.map",
+    "main.eef622e3.js.map": "/static/js/main.eef622e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca8cd6f.css",
+    "static/js/main.eef622e3.js"
+  ]
+}

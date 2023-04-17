@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+#fonts{
+color: white;
+font-family: 'Montserrat', sans-serif; 
+line-height: 5rem;
+font-weight: bold;
+}
+#headingFonts{
+color:white;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
+letter-spacing: 0.2rem;
+font-size: 35px;
+}
+#fontsabout{
+  color: white;
+  font-family: 'Montserrat', sans-serif; 
+  font-size:20px;
+  font-weight:normal;
+}
+
+#headingwork{
+color:white;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
+font-size: 20px;
+}
+#parwork{
+color: white;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif; 
+font-size: 15px;
+}
+#projects{
+color: white;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif; 
+font-size: 15px; 
+}
+#projectHeading{
+color:white;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
+font-size: 22px;
+letter-spacing: 0.5px;
+}
+#footer{
+font-family: 'Sacramento', cursive;
+font-size: 28px;
+}
+li {
+color: white;
+font-family: 'Montserrat', sans-serif; 
+font-weight: bold;
+font-size:18px;
+}
+a:hover{
+color:white
+}
+
+
+#car{
+  position: relative;
+  animation-name: car;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes  car {
+  0%   {left:0px; top:0px;}
+  25%  { left:1150px; top:0px;}
+  50%  { left:1150px; top:100px;}
+  75%  { left:0px; top:100px;}
+  100% {left:0px; top:0px;} 
+}
+
+
+@media only screen and (max-width: 768px) {
+  #car{
+    display:none;
+  }
+  #profile{
+    width:150px;
+    height:150px;
+  }
+ 
+}
+
+
+
