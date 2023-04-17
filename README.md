@@ -9,7 +9,7 @@
 </ul>
 
 
-[Click Here] (https://luminous-fenglisu-d26b26.netlify.app)
+<p> <a href='https://luminous-fenglisu-d26b26.netlify.app/' target='_blank'>Click Here</a></p>
 
 ## To Clone The Project 
 <ul>
